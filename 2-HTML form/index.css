@@ -1,0 +1,292 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #e8e8e8;
+    align-items: center;
+    font-family: "inter", sans-serif;
+}
+
+img {
+    border-radius: 48%;
+    padding: -0.5em;
+    width: 30px;
+    height: 30px;
+    position: relative;
+    background-color: #e1fbec;
+    margin-right: 8px;
+    align-items: center;
+    display: flex;
+    margin-top: 12px;
+}
+
+.acc {
+    width: 449px;
+    padding: 20px;
+    margin-top: 13px;
+    height: 560px;
+    margin-left: 565px;
+    background-color: #ffffff;
+    border-radius: 8px;
+}
+
+.title {
+    font-size: 20px;
+}
+
+.head-title {
+    width: 226px;
+    font-size: 12px;
+    color: #5e5e5c;
+    margin-top: 5px;
+
+}
+
+.image1 {
+    border-radius: 2%;
+    padding: -0.5em;
+    width: 106px;
+    height: 87px;
+    position: relative;
+    background-color: #e1fbec;
+    margin-left: 297px;
+    margin-top: -55px;
+    align-items: center;
+    max-inline-size: max-content;
+    display: flex;
+
+}
+
+.pro-label {
+    font-size: 13px;
+}
+
+.radius-text {
+    border: 2px solid #f5f0f0;
+    border-radius: 8px;
+    padding: 7px;
+    margin-top: 8px;
+    height: 36px;
+}
+
+.text1 {
+    font-size: smaller;
+}
+
+.text2 {
+    border: 0px solid #acafae;
+    border-radius: 6px;
+    width: 64px;
+    height: 19px;
+    background-color: #e9f3f9;
+    color: #ddeff9;
+    margin-left: 251px;
+    margin-top: -16px;
+}
+
+.txt1 {
+
+    font-size: 13px;
+    margin-left: 3px;
+    margin-top: -1px;
+    border-radius: 6px;
+    width: 64px;
+    height: 26px;
+    color: #0363c3;
+}
+
+.text3 {
+    border: 2px solid #acafae;
+    border-radius: 5px;
+    width: 53px;
+    height: 21px;
+    margin-left: 342px;
+    margin-top: -28px;
+}
+
+.txt2 {
+
+    font-size: 12px;
+    margin-left: 18px;
+    margin-top: -17px;
+
+
+}
+
+.ionicon {
+    width: 16px;
+    height: 12px;
+    margin-left: 1px;
+    margin-top: 1px;
+
+}
+
+.link-icon {
+    background-color: #edf5f7;
+    margin-top: 26px;
+    width: 40px;
+    height: 40px;
+    margin-left: 5px;
+    border-radius: 50%;
+}
+
+.link-text {
+    width: 150px;
+    margin-top: -40px;
+    margin-left: 45px;
+    font-size: 14px;
+}
+
+.link-icon1 {
+    margin-left: 127px;
+    margin-top: -15px;
+}
+
+.txt3 {
+
+    font-size: 14px;
+    margin-left: 9px;
+    margin-top: 6px;
+    width: 62px;
+
+
+}
+
+.link-icon2 {
+    margin-left: 62px;
+    margin-top: -15px;
+}
+
+.text4 {
+    border: 1px solid #f5f0f0;
+    border-radius: 6px;
+    width: 95px;
+    height: 31px;
+    margin-left: 266px;
+    margin-top: -30px;
+}
+
+.head-title1 {
+    width: 207px;
+    font-size: 12px;
+    color: #5e5e5c;
+    margin-top: 0px;
+
+}
+
+.members1 {
+    margin-top: 21px;
+    font-size: 15px;
+}
+
+.radius-text1 {
+    border: 2px solid #c3c2c2;
+    border-radius: 8px;
+    padding: 7px;
+    margin-top: 8px;
+    height: 31px;
+    width: 313px;
+}
+
+.ionicon3 {
+    width: 17px;
+}
+
+.search-txt {
+    margin-top: -21px;
+    margin-left: 26px;
+    font-size: 15px;
+    color: #939191;
+}
+
+.button {
+    border: 2px solid #c3c2c2;
+    border-radius: 10px;
+    margin-left: 313px;
+    margin-top: -25px;
+    width: 87px;
+    height: 34px;
+    color: #f7f8f9;
+    background-color: #4880e5;
+    padding: 5px;
+}
+
+.bottom {
+    margin-top: 19px;
+}
+
+.list1 {
+    margin-left: 52px;
+    margin-top: -33px;
+}
+
+.label1 {
+    font-size: 11px;
+}
+
+.txts1 {
+    border: 1px solid #acafae;
+    border-radius: 6px;
+    margin-left: 284px;
+    margin-top: -16px;
+    width: 76px;
+    height: 28px;
+}
+
+.link-icon3 {
+    margin-left: 47px;
+    margin-top: -17px;
+}
+
+
+
+.button1 {
+
+    margin-top: 13px;
+    margin-left: 41px;
+
+}
+
+.button-border {
+    border: 1px solid #f5f0f0;
+    border-radius: 6px;
+    margin-top: 13px;
+    width: 197px;
+    height: 46px;
+}
+
+.button-border1 {
+    border: 1px solid #acafae;
+    border-radius: 6px;
+    margin-top: -46px;
+    margin-left: 209px;
+    width: 205px;
+    height: 47px;
+    background-color: #4880e5;
+}
+
+.button2 {
+    margin-top: 12px;
+    margin-left: 55px;
+    color: #f7f3f3;
+}
+
+.txts3 {
+    font-size: 14px;
+    margin-left: 16px;
+    margin-top: 8px;
+    width: 101px;
+
+}
+
+.texts4 {
+    border: 1px solid #f5f0f0;
+    border-radius: 6px;
+    width: 95px;
+    height: 31px;
+    margin-left: 266px;
+    margin-top: -21px;
+}

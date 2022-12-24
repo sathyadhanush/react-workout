@@ -1,0 +1,291 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #e8e8e8;
+    align-items: center;
+    font-family: "inter", sans-serif;
+}
+
+
+
+.acc {
+    width: 473px;
+    padding: 20px;
+    margin-top: 20px;
+    height: 721px;
+    margin-left: 315px;
+    background-color: #ffffff;
+    border-radius: 8px;
+}
+
+.acc-First {
+    width: 311px;
+    padding: 20px;
+    margin-top: -734px;
+    height: 538px;
+    margin-left: 819px;
+    background-color: #ffffff;
+    border-radius: 8px;
+
+}
+
+
+.heading-first {
+    font-size: larger;
+}
+
+.anchor {
+    margin-top: -19px;
+    margin-left: 377px;
+    color: #3180b3;
+    text-decoration: none;
+}
+
+.anchor-first {
+    color: #0580cf;
+    text-decoration: none;
+}
+
+.item-first {
+    margin-top: 18px;
+}
+
+.image-first {
+    border-radius: 48%;
+    padding: -0.5em;
+    width: 77px;
+    height: 87px;
+    position: relative;
+    background-color: #e1fbec;
+    margin-right: 8px;
+    align-items: center;
+    display: flex;
+    margin-top: 23px;
+}
+
+.item-text-first {
+    margin-top: -67px;
+    margin-left: 91px;
+    font-size: 10px;
+    color: slategrey;
+}
+
+.item-text-second {
+    margin-left: 91px;
+    margin-top: 3px;
+}
+
+.item-text-third {
+    margin-top: 16px;
+    margin-left: 91px;
+    font-size: 12px;
+    color: slategrey;
+}
+
+.item-text-four {
+    margin-top: -16px;
+    margin-left: 122px;
+}
+
+.item-text-six {
+    margin-left: 194px;
+    margin-top: -19px;
+    font-size: 14px;
+    color: slategrey;
+
+}
+
+.item-text-seven {
+    margin-left: 235px;
+    margin-top: -19px;
+}
+
+.addtocart-first {
+    border: 1px solid #acafae;
+    border-radius: 4px;
+    width: 79px;
+    height: 26px;
+    margin-left: 348px;
+    margin-top: -61px;
+}
+
+.minos {
+    margin-left: 7px;
+    font-size: 28px;
+    margin-top: -6px;
+    color: #9ba0a5;
+}
+
+.plus {
+    margin-left: 56px;
+    font-size: 23px;
+    margin-top: -26px;
+    color: #9ba0a5;
+}
+
+.num {
+    margin-left: 33px;
+    font-size: 20px;
+    margin-top: -25px;
+
+}
+
+.amt-first {
+    margin-left: 348px;
+    margin-top: 44px;
+    color: #9ba0a5;
+    text-decoration: line-through;
+}
+
+.amt-second {
+    margin-left: 348px;
+    margin-top: 5px;
+}
+
+.delivery {
+    border: 0px solid #acafae;
+    border-radius: 4px;
+    width: 132px;
+    height: 19px;
+    margin-left: 92px;
+    margin-top: -31px;
+    background-color: #c6f6d9;
+}
+
+.delivery-first {
+    font-size: 14px;
+    margin-top: -6px;
+    margin-left: 7px;
+    color: #549365;
+}
+
+.car {
+    margin-top: -20px;
+    margin-left: 98px;
+}
+
+.amt-first-f {
+    margin-left: 348px;
+    margin-top: 44px;
+    color: #9ba0a500;
+    text-decoration: line-through;
+}
+
+.deliverys {
+    border: 0px solid #acafae;
+    border-radius: 4px;
+    width: 82px;
+    height: 20px;
+    margin-left: 92px;
+    margin-top: -30px;
+    background-color: #b8c8f5;
+
+}
+
+.delivery-firsts {
+    font-size: 13px;
+    margin-top: 5px;
+    margin-left: 7px;
+    color: #035983;
+
+}
+
+.amts {
+    margin-left: 348px;
+    margin-top: 44px;
+    color: #9ba0a5;
+    font-size: 13px;
+
+}
+
+
+.heading-second {
+    margin-top: 20px;
+    color: slategray;
+}
+
+.border-item {
+    margin-top: 22px;
+    border-bottom: 2px solid rgb(237 232 232);
+    color: slategrey;
+
+}
+
+.order-first {
+    margin-top: 14px;
+}
+
+.order-second {
+    margin-left: 241px;
+    margin-top: -18px;
+}
+
+.order-third {
+    color: slategray;
+    margin-top: 4px;
+    font-size: 13px;
+}
+
+.order-four {
+    margin-top: 18px;
+    font-size: 18px;
+    color: #0580cf;
+
+
+}
+
+.order-five {
+    border-bottom: 2px solid rgb(237 232 232);
+    color: slategrey;
+    margin-top: 12px;
+}
+
+.order-third-one {
+    margin-left: 200px;
+    margin-top: -42px;
+    font-size: smaller;
+}
+
+.total {
+    margin-top: 12px;
+}
+
+.totals {
+    margin-left: 197px;
+    margin-top: -19px;
+}
+
+.buttons-borders {
+    border: 1px solid #acafae;
+    border-radius: 6px;
+    margin-top: -40px;
+    margin-left: 147px;
+    width: 119px;
+    height: 40px;
+    background-color: #3257ff;
+}
+
+.buttons {
+    margin-top: 9px;
+    margin-left: 31px;
+    color: #f7f3f3;
+}
+
+.button {
+
+    margin-top: 9px;
+    margin-left: 36px;
+}
+
+.button-borders {
+    border: 1px solid #acafae;
+    border-radius: 6px;
+    margin-top: 23px;
+    width: 118px;
+    height: 40px;
+
+}
