@@ -1,0 +1,20 @@
+/*
+static 
+relative
+absolute
+fixed
+striky 
+*/
+.main {
+    position: relative;
+}
+
+.box1 {
+    position: absolute;
+    bottom: 0;
+
+}
+
+.box2 {
+    position: fixed;
+}

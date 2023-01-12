@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="index.css">
+        <title>Audio Player</title>
+    </head>
+
+    <body>
+        <audio id="audio">
+            <source src="bgm.mp3" type="audio/mpeg">
+        </audio>
+        <button class="playbtn" id="playPauseBTN" onclick="playPause()">Play </button>
+        &nbsp;
+        &nbsp;
+        <button class="resetbtn" onclick="reset()">Reset </button>
+        <!-- <button onclick="stopinterval()">stop</button> -->
+        <script>
+            var audio = document.getElementById('audio');
+            var playPauseBTN = document.getElementById('playPauseBTN');
+            var count = 0;
+
+            function playPause() {
+                if (count == 0) {
+                    count = 1;
+                    audio.play();
+                    playPauseBTN.innerHTML = "Pause ";
+                } else {
+                    count = 0;
+                    audio.pause();
+                    playPauseBTN.innerHTML = "Play";
+                }
+            }
+            function reset() {
+                playPause()
+                audio.pause();
+                audio.currentTime = 0;
+                playPauseBTN.innerHTML = "Play";
+            }
+
+
+
+            // function hello() {
+            //     console.log("hello");
+            // }
+            // myTimeout = setTimeout(hello, 10000);
+
+            // function stopinterval() {
+            //     clearTimeout(myTimeout);
+            // }
+
+
+        </script>
+
+    </body>
+
+</html>
