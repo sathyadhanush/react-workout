@@ -1,0 +1,78 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #e8e8e8;
+    align-items: center;
+    font-family: "inter", sans-serif;
+
+}
+
+.btn-icon {
+    margin-left: 5px
+}
+
+.login {
+    width: 350px;
+    padding: 20px;
+    margin-top: 71px;
+    height: 400px;
+    margin-left: 612px;
+    background-color: #ffffff;
+    border-radius: 8px;
+}
+
+.line {
+    border: 1px solid rgb(237 232 232);
+    margin-top: 22px;
+}
+
+.forgot-password {
+    margin-left: 201px;
+    margin-top: -31px;
+    font-size: 13px;
+    color: slategrey;
+}
+
+.Button {
+    margin-top: 23px;
+    margin-left: 9px;
+    width: 301px;
+    color: #ffffff;
+    background-color: #309bef;
+}
+
+.footer {
+    margin-top: 44px;
+    margin-left: 56px;
+    color: slategray;
+    font-size: 13px;
+}
+
+.footer-link {
+    margin-top: -20px;
+    margin-left: 205px;
+    color: #1278dd;
+    font-size: 12px;
+}
+
+.key-icon {
+    border-radius: 50%;
+    width: 24px;
+    height: 22px;
+    margin-top: -5px;
+    padding: 4px;
+    background-color: #e1fbec;
+}
+
+.cancel-icon {
+    position: fixed;
+    margin-left: 285px;
+    width: 25px;
+    height: 20px;
+    color: #747474;
+    margin-top: -6px;
+}
