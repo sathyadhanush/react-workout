@@ -1,0 +1,178 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #e8e8e8;
+  align-items: center;
+  font-family: "inter", sans-serif;
+
+}
+
+.btn-icon {
+  margin-left: 5px
+}
+
+.login {
+  width: 743px;
+  padding: 20px;
+  margin-top: 24px;
+  height: 612px;
+  margin-left: 424px;
+  background-color: #ffffff;
+  border-radius: 8px;
+}
+
+.bottom-line-one {
+  border: 1px solid rgb(237 232 232);
+  margin-top: 15px;
+  width: 743px;
+  margin-left: -20px;
+}
+
+.image-first {
+  border-radius: 48%;
+  padding: -0.5em;
+  width: 77px;
+  height: 87px;
+  position: relative;
+  background-color: #e1fbec;
+  margin-right: 8px;
+  align-items: center;
+  display: flex;
+  margin-top: 23px;
+  margin-left: 17px;
+}
+
+.text-one {
+  margin-left: 137px;
+  margin-top: -99px;
+  font-size: 13px;
+}
+
+.delete-icon-one {
+  margin-left: 680px;
+  color: slategray;
+  margin-top: -66px;
+
+}
+
+.ratings-one {
+  border: 1px solid rgb(237 232 232);
+  margin-top: 4px;
+  width: 26px;
+  margin-left: 138px;
+  height: 18px;
+  background-color: #007600;
+  border-radius: 4px;
+}
+
+.number-one {
+  color: white;
+  margin-left: 4px;
+  font-size: 12px;
+  margin-top: 3px;
+}
+
+.star-one {
+
+  margin-left: 13px;
+  margin-top: -19px;
+
+}
+
+.rate-one {
+  margin-left: 32px;
+  margin-top: -17px;
+  font-size: 14px;
+  color: #9ea4ab;
+}
+
+.rate-two {
+  margin-left: 140px;
+  margin-top: 11px;
+}
+
+.rate-three {
+  color: #9ba0a5;
+  text-decoration: line-through;
+  margin-left: 209px;
+  margin-top: -15px;
+  font-size: 12px;
+}
+
+.rate-four {
+
+  margin-left: 265px;
+  margin-top: -14px;
+  font-size: 12px;
+  color: #018b01;
+  font-size: 14px;
+}
+
+.bottom-line-two {
+  border: 1px solid rgb(237 232 232);
+  margin-top: 98px;
+  width: 743px;
+  margin-left: -20px;
+}
+
+.ratings-two {
+  border: 1px solid rgb(237 232 232);
+  margin-top: 4px;
+  width: 33px;
+  margin-left: 138px;
+  height: 18px;
+  background-color: #007600;
+  border-radius: 4px;
+}
+
+.star-two {
+  margin-left: 21px;
+  margin-top: -19px;
+}
+
+.img-text {
+  color: red;
+  font-size: 12px;
+  margin-top: -2px;
+  position: fixed;
+  margin-left: 33px;
+
+}
+
+.img-text-one {
+  margin-left: 28px;
+}
+
+.text-two {
+  color: #177aa9;
+  margin-left: 137px;
+  margin-top: -99px;
+  font-size: 13px;
+}
+
+.assured-first {
+  width: 69px;
+  margin-left: 105px;
+  margin-top: -18px;
+  position: fixed;
+}
+
+.assured-two {
+  width: 69px;
+  margin-left: 105px;
+  margin-top: -18px;
+  position: fixed;
+}
+
+.bg-col {
+  border: 1px solid rgb(252, 250, 250);
+  width: 114px;
+  height: 29px;
+  margin-top: -24px;
+  background-color: white;
+  position: fixed;
+}
